@@ -22,4 +22,4 @@ Competitions have always been a great way for me to push myself and improve my t
 
 Through my work, I've focused on advancing the capabilities of tiny robots, narrowing the gap with their larger counterparts. My PhD journey will conclude in July 2024, and I am excited for the next chapter ahead.
 
-**Interests**: Sensor Fusion, SLAM, Localization, Deep Learning, Embedded Systems
+**Interests**: Sensor Fusion, SLAM, Localization, Computer Vision, Deep Learning, Embedded Systems
