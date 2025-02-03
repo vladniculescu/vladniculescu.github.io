@@ -1,5 +1,5 @@
 ---
-title: "UWB-based Localization of Sensor Nodes With Nano-Drones"
+title: "UWB Localization of Sensor Nodes With Nano-Drones"
 excerpt: "<div style='max-width: 600px; text-align: justify; '>Smart interaction between autonomous centimeter-scale drones and IoT sensor nodes is an upcoming
 high-impact scenario. This work tackles precise 3D localization of unknown position edge nodes with an
 autonomous drone that weighs 30 g. We employ a multilateration algorithm that runs onboard the
