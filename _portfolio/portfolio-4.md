@@ -7,6 +7,8 @@ autonomous drone that weighs 30 g. We employ a multilateration algorithm that ru
  However, UWB distance measurements are affected by multiple sources of errors, such as uneven
  radiation pattern of the antenna. We therefore propose a lightweight machine learning algorithm that
  models the UWB errors and allows to mitigate their effect. In addition, we propose a method to
- automatically train the model parameters onboard the drone.<br/><a href='https://www.youtube.com/watch?v=8X_c4CGP2tI&t=62s'><img src='/images/image4.jpg' width='600px'></a>"
+ automatically train the model parameters onboard the drone.
+<a href='https://ieeexplore.ieee.org/abstract/document/9756977'>Paper</a>  
+<br/><a href='https://www.youtube.com/watch?v=8X_c4CGP2tI&t=62s'><img src='/images/image4.jpg' width='600px'></a>"
 collection: portfolio
 ---
