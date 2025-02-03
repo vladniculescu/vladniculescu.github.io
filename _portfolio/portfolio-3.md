@@ -6,6 +6,9 @@ and decrease the inference latency, the deep-learning model is quantized to 8-bi
  accuracy loss with respect to the full precision model. This work explores methodologies and software
  tools to streamline and automate all the model deployment on a ULP multicore system-on-chip. Our
  navigation system can navigate both indoors and outdoors, follow corridors, steer in narrow pipes, and
- avoid static and dynamic obstacles when moving with a speed of up to 2 m/s.<br/><a href='https://www.youtube.com/watch?v=41IwjAXmFQ0'><img src='/images/image3.jpg' width='600px'></a>"
+ avoid static and dynamic obstacles when moving with a speed of up to 2 m/s.
+ <a href='https://ieeexplore.ieee.org/abstract/document/9606685'>Paper</a>  
+ <a href='https://github.com/pulp-platform/pulp-dronet/tree/master/pulp-dronet-v2'>Code</a>
+ <br/><a href='https://www.youtube.com/watch?v=41IwjAXmFQ0'><img src='/images/image3.jpg' width='600px'></a>"
 collection: portfolio
 ---
