@@ -5,7 +5,7 @@ excerpt: "<div style='max-width: 600px; text-align: justify; '>So far, SLAM was 
  robots at a power budget of less than 100 mW. While conventional LiDARs are too heavy to operate onboard tiny robots, we fuse the information from four novel and miniaturized depth sensors.
  NanoSLAM is a graph-based approach that employs ICP scan-matching every time loop-closure is performed. The algorithm is developed in C, and runs entirely onboard
  either on a single core or leveraging the parallel capabilities of multicore RISC-V-based SoCs. 
- <a href='https://ieeexplore.ieee.org/document/10343110'>Paper  </a>
+ <a href='https://ieeexplore.ieee.org/document/10343110'>Paper</a>  
  <a href='https://github.com/ETH-PBL/NanoSLAM'>Code</a>
  <br/><a href='https://www.youtube.com/watch?v=XUSVLHJ87J0&t=205s'><img src='/images/image2.jpg' width='600px'></a>"
 collection: portfolio
